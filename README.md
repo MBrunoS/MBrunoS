@@ -1,6 +1,6 @@
 Hi! I’m Maurício Bruno (@MBrunoS). A front-end lover 😁.
 - 👀 I’m interested in Javascript and the many things it can create
-- 🌱 I’m currently learning Next.js, Prisma and TailwindCSS
+- 🌱 I’m currently learning Next.js and also enhancing my knowledge of React
 
 P.S: Right now I have some projects yet to be shared here. Come back later! 😉
 

@@ -1,12 +1,13 @@
-Hi! I’m Maurício Bruno (@MBrunoS). A front-end ~lover~ developer 😁.
+# Hello there! I’m Maurício Bruno
 
-- 👀 I'm a Javascript enthusiast since 2013
-- 🔭 I'm currently working with WordPress, and leading teams dedicated to youth
-- 🌱 I’m currently learning React Native and also enhancing my knowledge of React and Next.js
+## 🚀 About me
+- 👩‍💻I'm a front-end ~lover~ developer 😁.
+- 👀 Javascript enthusiast since 2013
+- 🔭 I'm currently working with WordPress, and leading graphic design team dedicated to youth
+- 🌱 I’m currently learning Node.js, React Native and also enhancing my knowledge of React and Next.js
 - 💬 Ask me about graphic design, Javascript, or (some) games and movies!
 - 📫 Contact me: mb.bruno.s@gmail.com
 
-<!---
-MBrunoS/MBrunoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-bruno-da-silva/)

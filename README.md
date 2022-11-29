@@ -1,6 +1,5 @@
 # Hello there! I’m Maurício Bruno
 
-## 🚀 About me
 - 👩‍💻I'm a front-end ~lover~ developer 😁.
 - 👀 Javascript enthusiast since 2013
 - 🔭 I'm currently working with WordPress, and leading graphic design team dedicated to youth

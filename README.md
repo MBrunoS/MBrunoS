@@ -5,8 +5,9 @@
 - 🔭 I'm currently working with WordPress, and leading graphic design team dedicated to youth
 - 🌱 I’m currently learning Node.js, React Native and also enhancing my knowledge of React and Next.js
 - 💬 Ask me about graphic design, Javascript, or (some) games and movies!
-- 📫 Contact me: mb.bruno.s@gmail.com
+- 📫 Contact me: contact@mbrunos.dev
 
 
 ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mbrunos.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-bruno-da-silva/)

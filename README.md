@@ -2,8 +2,8 @@
 
 - 👩‍💻 I'm a front-end ~lover~ developer 😁.
 - 👀 Javascript enthusiast since 2013
-- 🔭 I'm currently working with WordPress, and leading graphic design team dedicated to youth
-- 🌱 I’m currently learning Node.js, React Native and also enhancing my knowledge of React and Next.js
+- 🔭 I'm currently working with React and Next.js
+- 🌱 I’m currently enhancing my knowledge on how to build maintainable code bases and the Javascript ecosystem
 - 💬 Ask me about graphic design, Javascript, or (some) games and movies!
 - 📫 Contact me: contact@mbrunos.dev
 
